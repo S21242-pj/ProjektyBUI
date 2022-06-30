@@ -1,0 +1,15 @@
+.logo strong {
+  display: inline-block;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 0.4rem;
+  margin: 0.1rem 0.3rem;
+}
+
+.logo a {
+  display: inline-block;
+  text-decoration: none;
+  color: #111;
+  font-weight: bold;
+  margin: 0.2rem 0.3rem;
+}

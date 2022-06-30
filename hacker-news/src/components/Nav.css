@@ -1,0 +1,11 @@
+.nav {
+  background-color: #ff6600;
+  line-height: 0.3rem;
+}
+
+.nav .link {
+  border-left: 1px solid black;
+  padding: 0 0.5rem;
+  text-decoration: none;
+  color: #fff;
+}
